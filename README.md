@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-your-warm-embrace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Missing Your Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-your-warm-embrace/) |
+| **Get License** | [Request Licensing for Missing Your Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-your-warm-embrace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20e7c0e4b3fa0eadb67885d5e3d471f5bb0e9d060a054bdd0457662f0a715fcd` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

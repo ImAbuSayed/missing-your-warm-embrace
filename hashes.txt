@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Missing Your Warm Embrace
+
+This log tracks the cryptographic history and versioning for the song **Missing Your Warm Embrace** (missing-your-warm-embrace).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T15:02:28.321663 | `v1` | `20e7c0e4b3fa0eadb67885d5e3d471f5bb0e9d060a054bdd0457662f0a715fcd` | `38fbee14a8d6420f22ea946325f0432db785485297506a80055ff88c47c914c7` | `2026-05-27_missing-your-warm-embrace-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
