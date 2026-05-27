@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-your-warm-embrace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Missing Your Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-your-warm-embrace/) |
+| **Get License** | [Music Rights & Licensing for Missing Your Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-your-warm-embrace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel the ghost of your hands on my skin
+> Tracing the edges where the shadows begin
+> The fire burns down but the embers still glow
+> Missing your warm embrace everywhere I go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
